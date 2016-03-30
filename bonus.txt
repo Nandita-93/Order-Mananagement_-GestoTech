@@ -1,0 +1,12 @@
+ORDER MANAGEMENT SYSTEM
+
+Description:
+
+An Order Management System built with MongoDB and Angular. For demonstration purposes and a tutorial.
+Node provides the RESTful API. Angular provides the frontend and accesses the API. MongoDB stores like a hoarder. 
+
+Bonus Features:
+
+1. Incorporated an attractive background to the Order Management System.
+2. Rearranged the pattern of the web page.
+3. Highlighted the contents of the page with an appropriate title.
